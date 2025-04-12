@@ -92,7 +92,7 @@ const Hero = () => {
           {/* Right Content - Personal Photo */}
           <div className="mt-8 md:mt-9 md:w-1/2 flex justify-center">
             <img
-              src="../public/1744450992739.JPG"
+              src="./public/1744450992739.JPG"
               alt="Raj Fachara"
               className="rounded-full w-64 h-64 object-cover object-top shadow-lg border-4 border-teal hover:scale-105 hover:rotate-3 hover:translate-y-1 transition-transform duration-500"
             />
