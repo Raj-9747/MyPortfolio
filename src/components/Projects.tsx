@@ -7,14 +7,14 @@ const Projects = () => {
       title: 'CollegeConnect',
       description: 'The College ERP system with role-based access.',
       tech: ['React', 'Node.js', 'MongoDB', 'JWT'],
-      github: 'https://github.com',
+      github: 'https://github.com/jodhanikrunal/College-Connect',
       // live: 'https://example.com',
     },
     {
       title: 'Outlay - Expense Tracker',
       description: 'Corporate finance management tool with Nodemailer.',
       tech: ['JWT', 'Bcrypt.js', 'React', 'MongoDB'],
-      github: 'https://github.com',
+      github: 'https://github.com/Raj-9747/Company_Expense_Management',
       // live: 'https://example.com',
     },
     {
